@@ -7,5 +7,5 @@ Compress PDF using python
 
 ## Usage
 1. Open Terminal
-2. Type `python3 pythonPDFCompressor -o outputfile.pdf -inputfile.pdf`
+2. Type `python3 pythonPDFCompressor -o outputfile.pdf inputfile.pdf`
 3. Enter
