@@ -3,7 +3,7 @@ Compress PDF using python
 
 ## Installation
 1. Need to install ghostscript `brew install ghostscript` 
-![Screenshot](Screen Shot 2022-10-17 at 00.08.04.png)
+![Screenshot](screenshot.png)
 
 #Usage
 1. Open Terminal
